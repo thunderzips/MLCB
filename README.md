@@ -3,3 +3,7 @@ A basic ML circuit. The circuit initially predicts the value of an unknown bit (
 
 
 The circuit is simulated in circuitverse.org
+The output is represented by the bulb (single), 0--> OFF, 1--> ON
+The user must press the buttons yes or no depending upon whether the value shown is correct or wrong.
+
+Currently the circuit is limited to three guesses only, after three guesses, it'll reset to the initial state.
